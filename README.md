@@ -26,8 +26,8 @@ Atlast , free the host and device memory then reset the device and check for res
 ## Program:
 ### kernel reduceUnrolling8
 ```
-Name : SAFA
-Reg No : 212220230040
+Name : kabilan V
+Reg No : 212222100018
 
 #include "common.h"
 #include <cuda_runtime.h>
@@ -725,8 +725,8 @@ int main(int argc, char **argv)
 ```
 ### kernel reduceUnrolling16
 ```
-Name : SAFA
-Reg No : 212220230040
+Name : Kabilan V  
+Reg No : 212222100018
 
 #include "common.h"
 #include <cuda_runtime.h>
